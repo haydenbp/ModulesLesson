@@ -1,0 +1,25 @@
+{
+  "name": "ModulesLesson",
+  "version": "1.0.0",
+  "description": "",
+  "private": "true",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/haydenbp/ModulesLesson.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/haydenbp/ModulesLesson/issues"
+  },
+  "homepage": "https://github.com/haydenbp/ModulesLesson#readme",
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "webpack-cli": "^4.6.0"
+  }
+}
