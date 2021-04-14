@@ -10,4 +10,5 @@ function component() {
     return element;
 }
 
-document.body.appendChild(component());
+//rr
+document.body.appendChild(component()); 
